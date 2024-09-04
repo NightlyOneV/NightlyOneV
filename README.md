@@ -11,22 +11,22 @@
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=lua" height="40" alt="lua logo"  />
+  <img src="https://skillicons.dev/icons?i=lua" height="60" alt="lua logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=arduino" height="40" alt="arduino logo"  />
+  <img src="https://skillicons.dev/icons?i=arduino" height="60" alt="arduino logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=sqlite" height="40" alt="sqlite logo"  />
+  <img src="https://skillicons.dev/icons?i=sqlite" height="60" alt="sqlite logo"  />
 </div>
 
 ###
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
-  <img width="12" />
+  <img width="5" />
   <img src="https://skillicons.dev/icons?i=discord" height="40" alt="discord logo"  />
-  <img width="12" />
+  <img width="5" />
   <img src="https://skillicons.dev/icons?i=ps" height="40" alt="adobephotoshop logo"  />
 </div>
 
