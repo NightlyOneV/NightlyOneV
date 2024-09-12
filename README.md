@@ -28,6 +28,8 @@
   <img src="https://skillicons.dev/icons?i=discord" height="40" alt="discord logo"  />
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=ps" height="40" alt="adobephotoshop logo"  />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=robloxstudio" height="40" alt="robloxstudio logo" />  
 </div>
 
 ###
