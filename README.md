@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">🛠 Technical Student in Systems Development 🛠<br>📍 Brazil | Santa Catarina | Joinville 📍</p>
+<p align="center">🛠 Technical Student in Systems Development 🛠<br>📍 Brazil | Santa Catarina | Joinville 📍<br>📝Currently Learning: Python & TypeScript📝</p>
 
 ###
 
