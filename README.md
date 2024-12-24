@@ -2,61 +2,73 @@
 
 ###
 
-<p align="center">🛠 Technical Student in Systems Development 🛠<br>📍 Brazil | Santa Catarina | Joinville 📍<br>📝Currently Learning/Improving: Python, TypeScript, HTML & TailwindCSS📝</p>
+<p align="center">🛠 Technical Student in Systems Development 🛠<br>📍 Brazil | Santa Catarina | Joinville 📍</p>
 
 ###
 
-<h1 align="center">Programming Languages & Skills</h1>
+<h1 align="left"></h1>
 
 ###
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=lua" height="60" alt="lua logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=arduino" height="60" alt="arduino logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=sqlite" height="60" alt="sqlite logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=typescript" height="60" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=javascript" height="60" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="60" alt="html logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwindcss" height="60" alt="html logo"  />
+<h3 align="left">Advanced Skills</h3>
+
+###
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=lua" height="40" alt="lua logo"  />
 </div>
 
 ###
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
-  <img width="5" />
-  <img src="https://skillicons.dev/icons?i=discord" height="40" alt="discord logo"  />
-  <img width="5" />
-  <img src="https://skillicons.dev/icons?i=ps" height="40" alt="adobephotoshop logo"  />
-  <img width="5" />
-  <img src="https://skillicons.dev/icons?i=robloxstudio" height="40" alt="robloxstudio logo" />  
+<h3 align="left">Intermediate Skills</h3>
+
+###
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=arduino" height="40" alt="arduino logo"  />
 </div>
 
 ###
 
-<h1 align="center">Profile Status</h1>
+<h3 align="left">Beginner Skills</h3>
 
 ###
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=NightlyOneV&theme=discord&column=-1&row=1&margin-w=2&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NightlyOneV&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=false&order=2" height="125" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=NightlyOneV&locale=en&mode=daily&theme=react&hide_border=false&border_radius=5&order=3" height="125" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=NightlyOneV&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=rust" height="40" alt="rust logo"  />
 </div>
 
 ###
 
-<div align="center">
-  <img height="100" src="https://media.tenor.com/TNO4yMqeIFgAAAAi/kevin-truman-banner.gif"  />
+<h1 align="left"></h1>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/jos%C3%A9-roberto-miranda-bb8840269/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/xpx.joseroberto/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+</div>
+
+###
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NightlyOneV&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="200" alt="languages graph"  />
 </div>
 
 ###
