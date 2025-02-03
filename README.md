@@ -15,7 +15,7 @@
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=robloxstudio" height="60" alt="LuaU logo"  />
+  <img src="https://luau.org/assets/images/luau-88.png" height="60" alt="LuaU logo"  />
 </div>
 
 ###
