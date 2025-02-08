@@ -15,7 +15,9 @@
 ###
 
 <div align="center">
+  <a href="https://luau.org/"  target="_blank">
   <img src="https://luau.org/assets/images/luau-88.png" height="60" alt="LuaU logo"  />
+  </a>
 </div>
 
 ###
@@ -25,9 +27,13 @@
 ###
 
 <div align="center">
+  <a href="https://python.org/"  target="_blank">
   <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
+  </a>
   <img width="12" />
+  <a href="https://arduino.cc/"  target="_blank">
   <img src="https://skillicons.dev/icons?i=arduino" height="60" alt="arduino logo"  />
+  </a>
 </div>
 
 ###
@@ -37,17 +43,29 @@
 ###
 
 <div align="center">
+  <a href="https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Scripting/What_is_JavaScript"  target="_blank">
   <img src="https://skillicons.dev/icons?i=js" height="60" alt="javascript logo"  />
+  </a>
   <img width="12" />
+  <a href="https://www.typescriptlang.org/" target="_blank">
   <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
+  </a>
   <img width="12" />
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/" target="_blank"> 
   <img src="https://skillicons.dev/icons?i=html" height="60" alt="html5 logo"  />
+  </a>
   <img width="12" />
+  <a href="https://tailwindcss.com/" target="_blank"> 
   <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
+  </a>
   <img width="12" />
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"> 
   <img src="https://skillicons.dev/icons?i=css" height="60" alt="css3 logo"  />
+  </a>
   <img width="12" />
+  <a href="https://www.rust-lang.org/" target="_blank"> 
   <img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust logo"  />
+  </a>
 </div>
 
 ###
